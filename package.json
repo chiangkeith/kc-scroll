@@ -1,6 +1,6 @@
 {
   "name": "kc-scroll",
-  "version": "0.2.0",
+  "version": "0.2.2",
   "description": "library for offering simple tools fetching every single DOM info and performing actions",
   "main": "dist/index.js",
   "git repository": "https://github.com/chiangkeith/kc-scroll",
@@ -26,9 +26,7 @@
     "json-loader": "^0.5.4",
     "lodash": "^4.17.2",
     "node-sass": "^3.13.0",
-    "sass-loader": "^4.0.2",
-    "webpack": "^1.13.3",
-    "webpack-dev-server": "^1.16.2"
+    "sass-loader": "^4.0.2"
   },
   "devDependencies": {
     "babel-cli": "^6.22.2",
