@@ -1,6 +1,6 @@
 {
   "name": "kc-scroll",
-  "version": "0.2.70-alpha.30",
+  "version": "0.2.70",
   "description": "library for offering simple tools fetching every single DOM info and performing actions",
   "main": "dist/index.js",
   "git repository": "https://github.com/chiangkeith/kc-scroll",
